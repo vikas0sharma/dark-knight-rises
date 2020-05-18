@@ -1,5 +1,18 @@
+## Screenshots
 
-**Enjoy!**## Enable Glow
+### JS
+![screen](https://raw.githubusercontent.com/vikas0sharma/dark-knight-rises/master/images/js.png)
+
+### HTML
+
+![screen](https://raw.githubusercontent.com/vikas0sharma/dark-knight-rises/master/images/html.gif)
+
+### CS
+![screen](https://raw.githubusercontent.com/vikas0sharma/dark-knight-rises/master/images/cs.png)
+
+
+
+## Enable Glow
 
 Install [this](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) excellent plugin that allows you to load custom CSS and JS from the VS Marketplace. Please carefully read the ReadMe regarding permission for that extension before continuing with this installation.
 
