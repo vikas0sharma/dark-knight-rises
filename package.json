@@ -1,0 +1,21 @@
+{
+    "name": "dark-knight-rises",
+    "displayName": "Dark Knight Rises",
+    "description": "A dark glow theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Knight Rises",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Knight Rises-color-theme.json"
+            }
+        ]
+    }
+}

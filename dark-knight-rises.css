@@ -1,0 +1,48 @@
+.titlebar{
+	background-color:#080808;
+}
+
+.mtk7 {
+    color: #c6e2ff;
+    text-shadow: 0 0 2px rgba(202,228,225,0.92), 0 0 10px rgba(202,228,225,0.34), 0 0 4px rgba(30,132,242,0.52), 0 0 7px rgba(30,132,242,0.92), 0 0 11px rgba(30,132,242,0.78), 0 0 16px rgba(30,132,242,0.92);
+}
+
+.statusbar {
+	background-color: black !important;
+  }
+  
+ .line-numbers{
+	color: #fffefe !important;
+    text-shadow: 0 0 2px rgba(255, 0, 0, 0.2), 0 0 10px rgba(232, 184, 169, 0.34), 0 0 4px #ce8677ba, 0 0 7px rgba(199, 85, 33, 0.92), 0 0 11px #f48771, 0 0 16px rgba(214, 54, 13, 0.92);
+ }
+ 
+.action-label:hover{
+
+    color: #f48771;
+    text-shadow: 0 0 2px rgba(255, 0, 0, 0.2), 0 0 10px rgba(232, 184, 169, 0.34), 0 0 4px #ce8677ba, 0 0 7px rgba(199, 85, 33, 0.92), 0 0 11px #f48771, 0 0 16px rgba(214, 54, 13, 0.92);
+}
+
+.window-title{
+	animation: neon .08s ease-in-out infinite alternate;
+}
+
+.tab{
+	border-color: #6f6;
+	box-shadow: 0 0 20px rgba(0,255,0,.6), inset 0 0 10px rgba(0,255,0,.4), 0 2px 0 #000;
+}
+
+.badge-content{
+	box-shadow: 2px 2px 2px 1px;
+	animation: anim-glow 1s ease infinite;
+	
+}
+
+@keyframes anim-glow {
+	0% {
+		box-shadow: 0 0 rgba(#61EF61, 1);
+	}
+	100% {
+		box-shadow: 0 0 8px 8px transparent;
+	}
+}
+
