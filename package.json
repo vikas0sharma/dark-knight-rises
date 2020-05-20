@@ -2,7 +2,13 @@
     "name": "dark-knight-rises",
     "displayName": "Dark Knight Rises",
     "description": "A dark glow theme for awesome developers",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "VikasSharma",
+    "author": {
+        "name": "Vikas Sharma",
+        "email": "mailbox.viksharma@gmail.com",
+        "url": "https://github.com/vikas0sharma/"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
