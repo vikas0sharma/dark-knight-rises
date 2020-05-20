@@ -1,7 +1,7 @@
 {
     "name": "dark-knight-rises",
     "displayName": "Dark Knight Rises",
-    "description": "A dark glow theme",
+    "description": "A dark glow theme for awesome developers",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
@@ -17,5 +17,10 @@
                 "path": "./themes/Dark Knight Rises-color-theme.json"
             }
         ]
+    },
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vikas0sharma/dark-knight-rises"
     }
 }
